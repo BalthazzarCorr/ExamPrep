@@ -7,6 +7,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ExamPrep", "ExamPrep\ExamPr
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "buildWall", "buildWall\buildWall.njsproj", "{879B146F-A9B1-41E7-AC62-C3E24066ED01}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "formatHelper", "formatHelper\formatHelper.njsproj", "{5D61ACC6-5CB8-4188-A3E6-AC96235D75C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{879B146F-A9B1-41E7-AC62-C3E24066ED01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{879B146F-A9B1-41E7-AC62-C3E24066ED01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{879B146F-A9B1-41E7-AC62-C3E24066ED01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D61ACC6-5CB8-4188-A3E6-AC96235D75C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D61ACC6-5CB8-4188-A3E6-AC96235D75C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D61ACC6-5CB8-4188-A3E6-AC96235D75C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D61ACC6-5CB8-4188-A3E6-AC96235D75C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ExamPrep", "ExamPrep\ExamPrep.njsproj", "{8D5A0C45-82C1-4555-8BE0-DDEF9F3DAFAA}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "buildWall", "buildWall\buildWall.njsproj", "{879B146F-A9B1-41E7-AC62-C3E24066ED01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D5A0C45-82C1-4555-8BE0-DDEF9F3DAFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5A0C45-82C1-4555-8BE0-DDEF9F3DAFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5A0C45-82C1-4555-8BE0-DDEF9F3DAFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5A0C45-82C1-4555-8BE0-DDEF9F3DAFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879B146F-A9B1-41E7-AC62-C3E24066ED01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879B146F-A9B1-41E7-AC62-C3E24066ED01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879B146F-A9B1-41E7-AC62-C3E24066ED01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879B146F-A9B1-41E7-AC62-C3E24066ED01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8091DAE7-DB53-4CFC-96E4-A1A1CEA57CA3}
+	EndGlobalSection
+EndGlobal

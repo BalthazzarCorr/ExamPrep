@@ -1,0 +1,9 @@
+{
+  "name": "exam-prep",
+  "version": "0.0.0",
+  "description": "ExamPrep",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}
